@@ -1,4 +1,4 @@
-# Welcome to Lacrangggg's Github Profile
+<h1 align="center">Welcome to Lacranggg's Github Profile</h1>
 <h1 align="center">Hi 👋, I'm Duc Binh (a.k.a Lacrangggg)</h1>
 <h3 align="center">A student and junior developer from Vietnam</h3>
 
